@@ -1,7 +1,7 @@
 # Employee-Retention-analysis
 Built ML model to predict job-switch likelihood. 
 
-This is the final, comprehensive, and professionally enlarged breakdown of your **Employee Retention Prediction** project. This section is designed to serve as the definitive "Project Deep-Dive" for your GitHub README, combining strategic business value with a rigorous technical roadmap.
+ **Employee Retention Prediction** project. This section is designed to serve as the definitive "Project Deep-Dive" for your GitHub README, combining strategic business value with a rigorous technical roadmap.
 
 ---
 
@@ -66,6 +66,3 @@ The project utilizes a **Comparative Algorithm Framework**. While **Logistic Reg
 2.  **Risk Ranking:** Current employees are assigned a "Flight Risk" score.
 3.  **Stay Interviews:** High-risk but high-value employees are flagged for proactive engagement.
 4.  **Targeted Development:** Training resources are allocated to re-engage talent and improve long-term loyalty.
-
----
-*Developed as an end-to-end solution for modern, data-centric workforce management.*
