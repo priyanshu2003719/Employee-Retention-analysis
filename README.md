@@ -1,7 +1,7 @@
 # Employee-Retention-analysis
 Built ML model to predict job-switch likelihood. 
 
- **Employee Retention Prediction** project. This section is designed to serve as the definitive "Project Deep-Dive" for your GitHub README, combining strategic business value with a rigorous technical roadmap.
+ **Employee Retention Prediction** project. 
 
 ---
 
